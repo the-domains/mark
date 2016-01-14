@@ -1,0 +1,28 @@
+name: mark
+favicon: null
+layout_spectrum: 0.17844791593961418
+typography_spectrum: 0.7971435894723982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.08662577904760838
+  lightness: 0.10527161555364728
+  saturation: 0.6299232188612223
+  rhythmicContrast: 0.43563221651129425
+purpose: []
